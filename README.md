@@ -21,7 +21,9 @@ This project is based on an **e-commerce database hosted in BigQuery**, using da
 ### 1. Sessions Analysis Dashboard  
 ![Sessions Preview](Session_Analysis.png)  
 <br/>
-**Description:** _[To be added]_  
+**Description:**
+<br/>
+Tracks the number of user sessions across various dimensions, including browser, channel, country, device, language, and operating system. Helps identify trends in user access behavior and platform preferences.
 <br/>
 🔗 [View on Tableau Public](https://public.tableau.com/views/SessionAnalysisDashboard/SessionAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 <br/>
@@ -31,7 +33,9 @@ This project is based on an **e-commerce database hosted in BigQuery**, using da
 ### 2. Sales Dashboard  
 ![Sales Preview](Sales.png)  
 <br/>
-**Description:** _[To be added]_  
+**Description:**
+<br/>
+Displays the number of orders and total revenue generated. Metrics are segmented by product category, country, and device type. Includes interactive filters to support flexible and detailed sales analysis. 
 <br/>
 🔗 [View on Tableau Public](https://public.tableau.com/views/SalesDashboard_17490443787670/SALES?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 <br/>
@@ -41,7 +45,9 @@ This project is based on an **e-commerce database hosted in BigQuery**, using da
 ### 3. Email Dashboard  
 ![Email Preview](Email_Metrics.png)  
 <br/>
-**Description:** _[To be added]_  
+**Description:**
+<br/>
+Analyzes the performance of email campaigns by tracking the number of emails sent, open rates, and click-through rates. Includes breakdowns by country to compare user engagement across markets.
 <br/>
 🔗 [View on Tableau Public](https://public.tableau.com/views/EMAILMETRICSDASHBOARD/EMAILMETRICS?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 <br/>
