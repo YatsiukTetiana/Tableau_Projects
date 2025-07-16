@@ -14,9 +14,28 @@ This project is based on an **e-commerce database hosted in BigQuery**, using da
 - **SQL (BigQuery)** – querying and aggregating raw data  
 - **Tableau** – data visualization and dashboard creation
 
+<br/>
 
-Tracks the number of user sessions across various dimensions, including browser, channel, country, device, language, and operating system. Helps identify trends in user access behavior and platform preferences.
+## 🎯 Project Objectives
 
+The main goal of this project is to explore and visualize key aspects of user behavior and business performance using data from an e-commerce furniture store. Through interactive dashboards built in Tableau, the project focuses on the following objectives:
+
+- **Analyze user sessions** across browsers, countries, devices, languages, channels, and operating systems to understand traffic sources and user platform preferences.  
+- **Evaluate sales performance** by tracking the number of orders and total revenue, with segmentation by product category, country, and device, allowing for deeper insight into purchasing behavior.  
+- **Measure email marketing effectiveness** by monitoring sent emails, open rates, and click-through rates, with the ability to compare engagement levels across different countries.  
+- **Support data-driven decision-making** with clear, interactive dashboards and filters that allow business users to identify trends, segment audiences, and uncover high-performing areas.
+
+<br/>
+
+## ✅ Project Outcomes
+
+By completing this project, the following outcomes were achieved:
+
+- Developed **three fully functional Tableau dashboards** tailored to different business needs: user engagement (Sessions), revenue analysis (Sales), and email performance (Email).
+- Gained a comprehensive understanding of **multi-dimensional data analysis**, including segmentation by device, geography, channel, and product category.
+- Enabled **data-driven insights** that can help marketing, sales, and product teams improve customer engagement and optimize campaign strategies.
+- Demonstrated practical skills in **data modeling, SQL querying, and BI tool usage (Tableau)** to support business intelligence workflows.
+- Created a **reusable reporting structure** that can be scaled for similar datasets or integrated into broader analytics systems.
 
 <br/>
 
@@ -24,9 +43,8 @@ Tracks the number of user sessions across various dimensions, including browser,
 
 ### 1. Sessions Analysis Dashboard  
 ![Sessions Preview](Session_Analysis.png)  
-
 <br/>
-**Description:**  
+**Description:**   
 Tracks the number of user sessions across various dimensions, including browser, channel, country, device, language, and operating system. Helps identify trends in user access behavior and platform preferences.   
 
 🔗 [View on Tableau Public](https://public.tableau.com/views/SessionAnalysisDashboard/SessionAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
@@ -53,27 +71,3 @@ Analyzes the performance of email campaigns by tracking the number of emails sen
 
 🔗 [View on Tableau Public](https://public.tableau.com/views/EMAILMETRICSDASHBOARD/EMAILMETRICS?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 📁 [Download .twbx file](Email_Metrics_Dashboard.twbx)  
-
----
-
-## 📌 Key Objectives
-
-- Analyze account creation and user session behavior  
-- Evaluate sales trends and revenue across countries  
-- Track email campaign performance (sent, opened, clicked)  
-- 
-
-<br/>
-
-## ✨ Outcomes
-
-- Clear identification of high-performing user segments  
-- Insight into session frequency and conversion efficiency  
-- Visual comparison of engagement across regions and channels
-
----
-
-## 🔗 Author & Contact
-
-Created by [Your Name]  
-Feel free to reach out via GitHub or LinkedIn for questions or collaboration.
